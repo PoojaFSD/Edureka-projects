@@ -1,0 +1,78 @@
+.profiledisplay {
+    float: left;
+    width: 30%;
+     margin: 1%; 
+    height: 100%;
+     padding: 1px; 
+}
+.aboutdata {
+    padding-left: 5px;
+    padding-right: 40px;
+}
+.absocial {
+    text-decoration: none !important;
+    margin: 1%;
+    color: #4bffa5;
+}
+.ablink {
+    margin-top: 5%;
+    width: 40%;
+    float: left;
+}
+.aboutdatadiv {
+    width:100%;
+    height:100%;
+}
+
+
+
+
+.aboutdatadiv h2 {
+    text-align:center;
+    margin: 2%;
+}
+
+.aboutdatadiv p {
+    text-align: justify;
+    padding-right: 1%;
+}
+
+
+.profilheader {
+    margin: 2%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 94%;
+    border: 2px solid #874bff;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 5px 10px #8d4bff;
+    animation: down-bump 0.4s ease;
+
+}
+
+#profile-contact {
+    margin:7%;
+    float: none;
+}
+#profile-contact button {
+    border: 2px solid #724bff;
+    font-size: relative-large;
+    border-radius: 5px;
+}
+
+#profile-contact button:hover {
+    box-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+ 
+.colmn{
+    display:inline-flex;
+    
+    } 
+
+   
+       
+ 
+ 
+    
